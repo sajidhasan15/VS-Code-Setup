@@ -1,0 +1,46 @@
+{
+  "workbench.iconTheme": "vscode-icons-mac",
+  "window.zoomLevel": 1,
+  "editor.fontSize": 20,
+  "editor.tabSize": 5,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.hover.enabled": false,
+  // Live Server 
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.generateMap": false,
+  // VS Code Theme Customization
+  // "workbench.colorTheme": "Andromeda",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 20,
+  "diffEditor.wordWrap": "on",
+  // "security.workspace.trust.untrustedFiles": "open""files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  // Prettier Config
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  // Screencast Mode
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "screencastMode.mouseIndicatorColor": "#f1c40f",
+  "screencastMode.verticalOffset": 0,
+  // Enable Emmet support for JSX
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
